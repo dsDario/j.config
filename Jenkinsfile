@@ -8,7 +8,7 @@ pipeline {
       
       steps {
         echo 'building dell applicazione...'
-        echo 'modificato'
+        echo 'modificato ulteriormente'
       }
     }
     
